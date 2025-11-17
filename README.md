@@ -4,7 +4,7 @@ Project Overview
 
 This project implements a real-time Intelligent Traffic Light Control System that adjusts signal timing based on vehicle presence. It uses IR sensors to detect traffic density and an emergency switch to give priority to emergency vehicles. The control algorithm is non-blocking using the millis() function, ensuring smooth real-time operation.
 
-Developed as part of the PBL–I & Digital Electronics coursework and demonstrated at the IEEE Student Chapter Exhibition 2025.
+Developed as part of the PBL–I & Digital Electronics coursework and demonstrated at the student Exhibition 2025.
 
 Hardware Components
 
